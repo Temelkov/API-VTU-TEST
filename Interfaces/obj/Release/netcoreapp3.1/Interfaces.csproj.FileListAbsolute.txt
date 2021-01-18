@@ -1,0 +1,17 @@
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Interfaces.deps.json
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Interfaces.runtimeconfig.json
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Interfaces.dll
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Interfaces.pdb
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\DTOs.dll
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Entities.dll
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\DTOs.pdb
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\bin\Release\netcoreapp3.1\Entities.pdb
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.csproj.CopyComplete
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.dll
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.pdb
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Interfaces\obj\Release\netcoreapp3.1\Interfaces.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.json
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\bin\Release\netcoreapp3.1\Entities.runtimeconfig.dev.json
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\bin\Release\netcoreapp3.1\Entities.dll
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.dll
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.pdb
+N:\UNI-VTU\2-year\API\Project\API-VTU-TEST\Entities\obj\Release\netcoreapp3.1\Entities.genruntimeconfig.cache
